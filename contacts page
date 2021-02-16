@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Personal Website</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div id="container">
+			<header>
+				<h2>Contacts</h2>
+				<nav>
+				
+				</nav>
+			</header>
+			<main>
+				<div class="two-column">
+					<div>
+						<h1>To contact me:</h1>
+						<p> a.motorinaa@gmail.com
+            Instagram: that_hannaa</p>
+					</div>
+					<div>
+						<img id="big-pic" src="city.jpg" alt="City View">
+					</div>
+				</div>
+			</main>
+			<footer>
+				<p>Thanks for your attention!</p>
+			</footer>
+		</div>
+	</body>
+</html>
