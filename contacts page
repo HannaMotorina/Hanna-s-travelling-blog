@@ -1,32 +1,41 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>Hanna's travelling blog</title>
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
-		<div id="container">
-			<header>
-				<h2>Contacts</h2>
-				<nav>
-				
-				</nav>
-			</header>
-			<main>
-				<div class="two-column">
+	<html>
+		<head>
+			<title>Hanna's travelling blog</title>
+			<link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500&display=swap" rel="stylesheet">
+			<link rel="stylesheet" href="style.css">
+		</head>
+			<body>
+			<div id="container">
+				<header>
 					<div>
-						<h1>To contact me:</h1>
-						<p> a.motorinaa@gmail.com
-  </p>
+					<h1 id="header"><a href="home.html">Hanna Motorina</h1>
 					</div>
-					<div>
-						<img id="big-pic" src="city.jpg" alt="City View">
-					</div>
+				</header>
+				<main>
+				<div class="columns">
+					<nav class="menu">
+						<ul>
+							<li><a href="fashion.html">About me</a></li>
+							<li><a href="film.html">My past trips</a></li>
+							<li><a href="about.html">My future trips</a></li>
+							<li><a href="contact.html">Contacts</a></li>
+						</ul>
+					</nav>
+						<div id="box">
+							<div>
+								<p class="contact">email:   a.motorinaa@gmail.com</p>
+								<p class="contact">phone:   +380-95-49-17-456</p>
+								<li class="smspace"><a href="https://www.instagram.com/that_hannaa/" target="_blank">Instagram</a></li>
+							</div>
+							
 				</div>
-			</main>
-			<footer>
-				<p>Thanks for your attention!</p>
+				</main>
+				
+		<footer>
+				<p>&copy; Motorina H., 2021</p>
 			</footer>
 		</div>
-	</body>
-</html>
+		</body>
+	</html>
