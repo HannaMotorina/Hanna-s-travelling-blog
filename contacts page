@@ -3,7 +3,7 @@
 		<head>
 			<title>Hanna's travelling blog</title>
 			<link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
-			<link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
 			<link rel="stylesheet" href="style.css">
 		</head>
 			<body>
@@ -14,7 +14,6 @@
 					</div>
 				</header>
 				<main>
-				<div class="columns">
 					<nav class="menu">
 						<ul>
 							<li><a href="fashion.html">About me</a></li>
@@ -29,6 +28,9 @@
 								<p class="contact">phone:   +380-95-49-17-456</p>
 								<li class="smspace"><a href="https://www.instagram.com/that_hannaa/" target="_blank">Instagram</a></li>
 							</div>
+							<div id="main-top-right">
+							<img alt="Hanna" class="home-pic" src="https://raw.githubusercontent.com/HannaMotorina/lcc/main/146701946_1286936011705936_6545582038733345493_o.jpg" />
+					</div>
 							
 				</div>
 				</main>
